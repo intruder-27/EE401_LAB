@@ -1,5 +1,5 @@
 # EE401_LAB
-## This is my work of EE401 lab simulation assignment base on the topic - Genration Scheduling in Power Systems.
+## This is my work on the EE401 lab simulation assignment based on the topic - Generation Scheduling in Power Systems.
 
-# Aditya Agrawal - 20085114
-# Vibhor Goel    - 20085108
+ Aditya Agrawal - 20085114
+ Vibhor Goel    - 20085108
